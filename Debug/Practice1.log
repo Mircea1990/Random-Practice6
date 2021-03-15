@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul I\Programarea orientata obiect\Visual Studio Courses\C++ Practice\Practice1\biblioteca.h(284): warning C4172: returning address of local variable or temporary: copie
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul I\Programarea orientata obiect\Visual Studio Courses\C++ Practice\Practice1\biblioteca.h(304): warning C4715: 'operator++': not all control paths return a value
+D:\Mircea\ASE\DOCUMENTE\An II\Semestrul I\Programarea orientata obiect\Visual Studio Courses\C++ Practice\Practice1\biblioteca.h(302): warning C4172: returning address of local variable or temporary: copie
+  Practice1.vcxproj -> D:\Mircea\ASE\DOCUMENTE\An II\Semestrul I\Programarea orientata obiect\Visual Studio Courses\C++ Practice\Practice1\Debug\Practice1.exe
